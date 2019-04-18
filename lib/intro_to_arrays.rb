@@ -19,4 +19,9 @@ def last_element(array)
 end
 
 def first_element_with_array_methods(array)
-  
+  array.Shift 
+end
+
+def length_of_array(array)
+  array.Length 
+end
