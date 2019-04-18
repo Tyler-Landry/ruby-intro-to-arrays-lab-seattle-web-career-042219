@@ -1,2 +1,5 @@
 def instantiate_new_array
-  Array.new
+  x = Array.new
+  puts x
+end
+
